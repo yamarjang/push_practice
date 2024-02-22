@@ -1,0 +1,319 @@
+2024-02-10 19:02:03.870 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-02-10 19:02:03.870 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-8b3775030ed1a69b13e4f4c628c612102e30a681","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20240210T190203"}
+2024-02-10 19:02:03.870 [info] 
+
+
+
+
+2024-02-10 19:02:03.870 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-10 19:02:03.870 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-02-10 19:02:03.870 [trace] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json'
+2024-02-10 19:02:03.891 [trace] ExtensionManagementService#cleanUp
+2024-02-10 19:02:03.891 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-02-10 19:02:03.899 [info] Extension host agent started.
+2024-02-10 19:02:04.042 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-10 19:02:04.044 [debug] No uninstalled extensions found.
+2024-02-10 19:02:04.063 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-pack-0.25.2023121402
+2024-02-10 19:02:04.064 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-dependency-0.23.2024010506
+2024-02-10 19:02:04.064 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/esbenp.prettier-vscode-10.1.0
+2024-02-10 19:02:04.064 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.28.0
+2024-02-10 19:02:04.072 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-10 19:02:04.075 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-02-10 19:02:04.078 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-02-10 19:02:04.082 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-02-10 19:02:04.610 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:04.629 [trace] Scanned user extensions: 21
+2024-02-10 19:02:05.010 [info] [127.0.0.1][7914a5b0][ManagementConnection] New connection established.
+2024-02-10 19:02:05.011 [trace] [127.0.0.1][267e549a][ExtensionHostConnection] - startParams language: ja
+2024-02-10 19:02:05.013 [trace] [127.0.0.1][267e549a][ExtensionHostConnection] - startParams env: {}
+2024-02-10 19:02:05.016 [info] [127.0.0.1][267e549a][ExtensionHostConnection] New connection established.
+2024-02-10 19:02:05.051 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-02-10 19:02:05.064 [info] [127.0.0.1][267e549a][ExtensionHostConnection] <841> Launched Extension Host Process.
+2024-02-10 19:02:05.308 [trace] Started scanning system extensions
+2024-02-10 19:02:05.317 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-10 19:02:05.318 [trace] ExtensionManagementService.refreshReportedCache
+2024-02-10 19:02:05.319 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-02-10 19:02:05.320 [trace] Started scanning system extensions
+2024-02-10 19:02:05.320 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-10 19:02:05.322 [trace] Started scanning system extensions
+2024-02-10 19:02:05.322 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-10 19:02:05.333 [trace] Scanning extensions using UI language: ja
+2024-02-10 19:02:05.344 [info] Log level changed to info
+2024-02-10 19:02:06.347 [info] [127.0.0.1][67fce986][ExtensionHostConnection] New connection established.
+2024-02-10 19:02:06.348 [info] [127.0.0.1][9617205c][ManagementConnection] New connection established.
+2024-02-10 19:02:06.417 [info] [127.0.0.1][67fce986][ExtensionHostConnection] <998> Launched Extension Host Process.
+2024-02-10 19:02:06.441 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:06.707 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:07.390 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:07.836 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:08.385 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:08.573 [warning] RequestStore#acceptReply was called without receiving a matching request 1
+2024-02-10 19:02:08.573 [warning] RequestStore#acceptReply was called without receiving a matching request 2
+2024-02-10 19:02:08.574 [warning] RequestStore#acceptReply was called without receiving a matching request 3
+2024-02-10 19:02:08.574 [warning] RequestStore#acceptReply was called without receiving a matching request 4
+2024-02-10 19:02:08.574 [warning] RequestStore#acceptReply was called without receiving a matching request 5
+2024-02-10 19:02:08.575 [warning] RequestStore#acceptReply was called without receiving a matching request 6
+2024-02-10 19:02:08.576 [warning] RequestStore#acceptReply was called without receiving a matching request 7
+2024-02-10 19:02:08.577 [warning] RequestStore#acceptReply was called without receiving a matching request 8
+2024-02-10 19:02:08.577 [warning] RequestStore#acceptReply was called without receiving a matching request 9
+2024-02-10 19:02:08.577 [warning] RequestStore#acceptReply was called without receiving a matching request 10
+2024-02-10 19:02:08.577 [warning] RequestStore#acceptReply was called without receiving a matching request 11
+2024-02-10 19:02:08.577 [warning] RequestStore#acceptReply was called without receiving a matching request 12
+2024-02-10 19:02:08.578 [warning] RequestStore#acceptReply was called without receiving a matching request 13
+2024-02-10 19:02:08.578 [warning] RequestStore#acceptReply was called without receiving a matching request 14
+2024-02-10 19:02:08.578 [warning] RequestStore#acceptReply was called without receiving a matching request 15
+2024-02-10 19:02:08.578 [warning] RequestStore#acceptReply was called without receiving a matching request 16
+2024-02-10 19:02:08.578 [warning] RequestStore#acceptReply was called without receiving a matching request 17
+2024-02-10 19:02:08.578 [warning] RequestStore#acceptReply was called without receiving a matching request 18
+2024-02-10 19:02:08.579 [warning] RequestStore#acceptReply was called without receiving a matching request 19
+2024-02-10 19:02:08.579 [warning] RequestStore#acceptReply was called without receiving a matching request 20
+2024-02-10 19:02:08.580 [warning] RequestStore#acceptReply was called without receiving a matching request 21
+2024-02-10 19:02:08.580 [warning] RequestStore#acceptReply was called without receiving a matching request 22
+2024-02-10 19:02:08.580 [warning] RequestStore#acceptReply was called without receiving a matching request 23
+2024-02-10 19:02:08.580 [warning] RequestStore#acceptReply was called without receiving a matching request 24
+2024-02-10 19:02:08.581 [warning] RequestStore#acceptReply was called without receiving a matching request 25
+2024-02-10 19:02:08.581 [warning] RequestStore#acceptReply was called without receiving a matching request 26
+2024-02-10 19:02:08.581 [warning] RequestStore#acceptReply was called without receiving a matching request 27
+2024-02-10 19:02:08.581 [warning] RequestStore#acceptReply was called without receiving a matching request 28
+2024-02-10 19:02:08.583 [warning] RequestStore#acceptReply was called without receiving a matching request 29
+2024-02-10 19:02:08.583 [warning] RequestStore#acceptReply was called without receiving a matching request 30
+2024-02-10 19:02:08.585 [warning] RequestStore#acceptReply was called without receiving a matching request 31
+2024-02-10 19:02:08.585 [warning] RequestStore#acceptReply was called without receiving a matching request 32
+2024-02-10 19:02:08.585 [warning] RequestStore#acceptReply was called without receiving a matching request 33
+2024-02-10 19:02:08.585 [warning] RequestStore#acceptReply was called without receiving a matching request 34
+2024-02-10 19:02:08.585 [warning] RequestStore#acceptReply was called without receiving a matching request 35
+2024-02-10 19:02:08.585 [warning] RequestStore#acceptReply was called without receiving a matching request 36
+2024-02-10 19:02:08.585 [warning] RequestStore#acceptReply was called without receiving a matching request 37
+2024-02-10 19:02:08.585 [warning] RequestStore#acceptReply was called without receiving a matching request 38
+2024-02-10 19:02:08.586 [warning] RequestStore#acceptReply was called without receiving a matching request 39
+2024-02-10 19:02:08.586 [warning] RequestStore#acceptReply was called without receiving a matching request 40
+2024-02-10 19:02:08.588 [warning] RequestStore#acceptReply was called without receiving a matching request 41
+2024-02-10 19:02:08.588 [warning] RequestStore#acceptReply was called without receiving a matching request 42
+2024-02-10 19:02:08.588 [warning] RequestStore#acceptReply was called without receiving a matching request 43
+2024-02-10 19:02:08.588 [warning] RequestStore#acceptReply was called without receiving a matching request 44
+2024-02-10 19:02:08.589 [warning] RequestStore#acceptReply was called without receiving a matching request 45
+2024-02-10 19:02:08.589 [warning] RequestStore#acceptReply was called without receiving a matching request 46
+2024-02-10 19:02:08.589 [warning] RequestStore#acceptReply was called without receiving a matching request 47
+2024-02-10 19:02:08.589 [warning] RequestStore#acceptReply was called without receiving a matching request 48
+2024-02-10 19:02:08.589 [warning] RequestStore#acceptReply was called without receiving a matching request 49
+2024-02-10 19:02:08.589 [warning] RequestStore#acceptReply was called without receiving a matching request 50
+2024-02-10 19:02:08.589 [warning] RequestStore#acceptReply was called without receiving a matching request 51
+2024-02-10 19:02:08.590 [warning] RequestStore#acceptReply was called without receiving a matching request 52
+2024-02-10 19:02:08.590 [warning] RequestStore#acceptReply was called without receiving a matching request 53
+2024-02-10 19:02:08.590 [warning] RequestStore#acceptReply was called without receiving a matching request 54
+2024-02-10 19:02:08.590 [warning] RequestStore#acceptReply was called without receiving a matching request 55
+2024-02-10 19:02:08.590 [warning] RequestStore#acceptReply was called without receiving a matching request 56
+2024-02-10 19:02:08.590 [warning] RequestStore#acceptReply was called without receiving a matching request 57
+2024-02-10 19:02:08.590 [warning] RequestStore#acceptReply was called without receiving a matching request 58
+2024-02-10 19:02:08.591 [warning] RequestStore#acceptReply was called without receiving a matching request 59
+2024-02-10 19:02:08.591 [warning] RequestStore#acceptReply was called without receiving a matching request 60
+2024-02-10 19:02:08.592 [warning] RequestStore#acceptReply was called without receiving a matching request 61
+2024-02-10 19:02:08.593 [warning] RequestStore#acceptReply was called without receiving a matching request 62
+2024-02-10 19:02:08.593 [warning] RequestStore#acceptReply was called without receiving a matching request 63
+2024-02-10 19:02:08.593 [warning] RequestStore#acceptReply was called without receiving a matching request 64
+2024-02-10 19:02:08.593 [warning] RequestStore#acceptReply was called without receiving a matching request 65
+2024-02-10 19:02:08.593 [warning] RequestStore#acceptReply was called without receiving a matching request 66
+2024-02-10 19:02:08.593 [warning] RequestStore#acceptReply was called without receiving a matching request 67
+2024-02-10 19:02:08.593 [warning] RequestStore#acceptReply was called without receiving a matching request 68
+2024-02-10 19:02:08.594 [warning] RequestStore#acceptReply was called without receiving a matching request 69
+2024-02-10 19:02:08.594 [warning] RequestStore#acceptReply was called without receiving a matching request 70
+2024-02-10 19:02:08.594 [warning] RequestStore#acceptReply was called without receiving a matching request 71
+2024-02-10 19:02:08.594 [warning] RequestStore#acceptReply was called without receiving a matching request 72
+2024-02-10 19:02:08.594 [warning] RequestStore#acceptReply was called without receiving a matching request 73
+2024-02-10 19:02:08.594 [warning] RequestStore#acceptReply was called without receiving a matching request 74
+2024-02-10 19:02:08.594 [warning] RequestStore#acceptReply was called without receiving a matching request 75
+2024-02-10 19:02:08.594 [warning] RequestStore#acceptReply was called without receiving a matching request 76
+2024-02-10 19:02:08.595 [warning] RequestStore#acceptReply was called without receiving a matching request 77
+2024-02-10 19:02:08.595 [warning] RequestStore#acceptReply was called without receiving a matching request 78
+2024-02-10 19:02:08.596 [warning] RequestStore#acceptReply was called without receiving a matching request 79
+2024-02-10 19:02:08.596 [warning] RequestStore#acceptReply was called without receiving a matching request 80
+2024-02-10 19:02:08.596 [warning] RequestStore#acceptReply was called without receiving a matching request 81
+2024-02-10 19:02:08.596 [warning] RequestStore#acceptReply was called without receiving a matching request 82
+2024-02-10 19:02:08.596 [warning] RequestStore#acceptReply was called without receiving a matching request 83
+2024-02-10 19:02:08.596 [warning] RequestStore#acceptReply was called without receiving a matching request 84
+2024-02-10 19:02:08.597 [warning] RequestStore#acceptReply was called without receiving a matching request 85
+2024-02-10 19:02:08.597 [warning] RequestStore#acceptReply was called without receiving a matching request 86
+2024-02-10 19:02:08.597 [warning] RequestStore#acceptReply was called without receiving a matching request 87
+2024-02-10 19:02:08.598 [warning] RequestStore#acceptReply was called without receiving a matching request 88
+2024-02-10 19:02:08.598 [warning] RequestStore#acceptReply was called without receiving a matching request 89
+2024-02-10 19:02:08.598 [warning] RequestStore#acceptReply was called without receiving a matching request 90
+2024-02-10 19:02:08.598 [warning] RequestStore#acceptReply was called without receiving a matching request 91
+2024-02-10 19:02:09.083 [warning] RequestStore#acceptReply was called without receiving a matching request 92
+2024-02-10 19:02:09.083 [warning] RequestStore#acceptReply was called without receiving a matching request 93
+2024-02-10 19:02:09.088 [warning] RequestStore#acceptReply was called without receiving a matching request 94
+2024-02-10 19:02:09.095 [warning] RequestStore#acceptReply was called without receiving a matching request 95
+2024-02-10 19:02:09.103 [warning] RequestStore#acceptReply was called without receiving a matching request 96
+2024-02-10 19:02:09.105 [warning] RequestStore#acceptReply was called without receiving a matching request 97
+2024-02-10 19:02:09.108 [warning] RequestStore#acceptReply was called without receiving a matching request 98
+2024-02-10 19:02:09.108 [warning] RequestStore#acceptReply was called without receiving a matching request 99
+2024-02-10 19:02:09.108 [warning] RequestStore#acceptReply was called without receiving a matching request 100
+2024-02-10 19:02:09.109 [warning] RequestStore#acceptReply was called without receiving a matching request 101
+2024-02-10 19:02:09.109 [warning] RequestStore#acceptReply was called without receiving a matching request 102
+2024-02-10 19:02:09.109 [warning] RequestStore#acceptReply was called without receiving a matching request 103
+2024-02-10 19:02:09.109 [warning] RequestStore#acceptReply was called without receiving a matching request 104
+2024-02-10 19:02:09.188 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:09.660 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:09.861 [warning] RequestStore#acceptReply was called without receiving a matching request 105
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 106
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 107
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 108
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 109
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 110
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 111
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 112
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 113
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 114
+2024-02-10 19:02:09.867 [warning] RequestStore#acceptReply was called without receiving a matching request 115
+2024-02-10 19:02:09.868 [warning] RequestStore#acceptReply was called without receiving a matching request 116
+2024-02-10 19:02:09.868 [warning] RequestStore#acceptReply was called without receiving a matching request 117
+2024-02-10 19:02:09.965 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.092 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.228 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.313 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.367 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.428 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.499 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.616 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.653 [warning] RequestStore#acceptReply was called without receiving a matching request 118
+2024-02-10 19:02:10.653 [warning] RequestStore#acceptReply was called without receiving a matching request 119
+2024-02-10 19:02:10.654 [warning] RequestStore#acceptReply was called without receiving a matching request 120
+2024-02-10 19:02:10.654 [warning] RequestStore#acceptReply was called without receiving a matching request 121
+2024-02-10 19:02:10.654 [warning] RequestStore#acceptReply was called without receiving a matching request 122
+2024-02-10 19:02:10.654 [warning] RequestStore#acceptReply was called without receiving a matching request 123
+2024-02-10 19:02:10.655 [warning] RequestStore#acceptReply was called without receiving a matching request 124
+2024-02-10 19:02:10.655 [warning] RequestStore#acceptReply was called without receiving a matching request 125
+2024-02-10 19:02:10.655 [warning] RequestStore#acceptReply was called without receiving a matching request 126
+2024-02-10 19:02:10.655 [warning] RequestStore#acceptReply was called without receiving a matching request 127
+2024-02-10 19:02:10.656 [warning] RequestStore#acceptReply was called without receiving a matching request 128
+2024-02-10 19:02:10.656 [warning] RequestStore#acceptReply was called without receiving a matching request 129
+2024-02-10 19:02:10.656 [warning] RequestStore#acceptReply was called without receiving a matching request 130
+2024-02-10 19:02:10.685 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.741 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:10.773 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:11.699 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:11.794 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:12.365 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:13.030 [info] Getting Manifest... github.codespaces
+2024-02-10 19:02:13.031 [info] Getting Manifest... github.copilot
+2024-02-10 19:02:13.031 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-02-10 19:02:13.073 [info] Installing extension: github.copilot
+2024-02-10 19:02:13.083 [info] Installing extension: github.codespaces
+2024-02-10 19:02:13.085 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2024-02-10 19:02:13.496 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:13.553 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:13.635 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:13.691 [warning] RequestStore#acceptReply was called without receiving a matching request 131
+2024-02-10 19:02:13.691 [warning] RequestStore#acceptReply was called without receiving a matching request 132
+2024-02-10 19:02:13.691 [warning] RequestStore#acceptReply was called without receiving a matching request 133
+2024-02-10 19:02:13.691 [warning] RequestStore#acceptReply was called without receiving a matching request 134
+2024-02-10 19:02:13.691 [warning] RequestStore#acceptReply was called without receiving a matching request 135
+2024-02-10 19:02:13.691 [warning] RequestStore#acceptReply was called without receiving a matching request 136
+2024-02-10 19:02:13.691 [warning] RequestStore#acceptReply was called without receiving a matching request 137
+2024-02-10 19:02:13.691 [warning] RequestStore#acceptReply was called without receiving a matching request 138
+2024-02-10 19:02:13.692 [warning] RequestStore#acceptReply was called without receiving a matching request 139
+2024-02-10 19:02:13.692 [warning] RequestStore#acceptReply was called without receiving a matching request 140
+2024-02-10 19:02:13.692 [warning] RequestStore#acceptReply was called without receiving a matching request 141
+2024-02-10 19:02:13.692 [warning] RequestStore#acceptReply was called without receiving a matching request 142
+2024-02-10 19:02:13.692 [warning] RequestStore#acceptReply was called without receiving a matching request 143
+2024-02-10 19:02:13.708 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:13.753 [warning] RequestStore#acceptReply was called without receiving a matching request 144
+2024-02-10 19:02:13.753 [warning] RequestStore#acceptReply was called without receiving a matching request 145
+2024-02-10 19:02:13.753 [warning] RequestStore#acceptReply was called without receiving a matching request 146
+2024-02-10 19:02:13.753 [warning] RequestStore#acceptReply was called without receiving a matching request 147
+2024-02-10 19:02:13.753 [warning] RequestStore#acceptReply was called without receiving a matching request 148
+2024-02-10 19:02:13.753 [warning] RequestStore#acceptReply was called without receiving a matching request 149
+2024-02-10 19:02:13.753 [warning] RequestStore#acceptReply was called without receiving a matching request 150
+2024-02-10 19:02:13.753 [warning] RequestStore#acceptReply was called without receiving a matching request 151
+2024-02-10 19:02:13.754 [warning] RequestStore#acceptReply was called without receiving a matching request 152
+2024-02-10 19:02:13.754 [warning] RequestStore#acceptReply was called without receiving a matching request 153
+2024-02-10 19:02:13.754 [warning] RequestStore#acceptReply was called without receiving a matching request 154
+2024-02-10 19:02:13.754 [warning] RequestStore#acceptReply was called without receiving a matching request 155
+2024-02-10 19:02:13.754 [warning] RequestStore#acceptReply was called without receiving a matching request 156
+2024-02-10 19:02:13.887 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:14.190 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:14.309 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:14.379 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:14.456 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:15.092 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:15.341 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:15.477 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:15.729 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:15.844 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:16.041 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:16.219 [warning] Extension signature verification failed with error 'ENOENT': github.codespaces
+2024-02-10 19:02:16.485 [warning] Extension signature verification failed with error 'ENOENT': github.copilot
+2024-02-10 19:02:16.530 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ja
+2024-02-10 19:02:17.195 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2024020709: ms-ceintl.vscode-language-pack-ja
+2024-02-10 19:02:17.225 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2024020709
+2024-02-10 19:02:17.243 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2024-02-10 19:02:17.283 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2024-02-10 19:02:17.433 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.85.2024013109
+2024-02-10 19:02:17.478 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:17.544 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2024-02-10 19:02:17.987 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.codespaces-1.16.10: github.codespaces
+2024-02-10 19:02:18.006 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.codespaces-1.16.10
+2024-02-10 19:02:18.010 [info] Extracting extension completed. github.codespaces
+2024-02-10 19:02:18.029 [info] Extension installed successfully: github.codespaces
+2024-02-10 19:02:18.037 [info] Marked extension as uninstalled github.codespaces-1.16.9
+2024-02-10 19:02:18.106 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-1.159.0: github.copilot
+2024-02-10 19:02:18.121 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-1.159.0
+2024-02-10 19:02:18.126 [info] Extracting extension completed. github.copilot
+2024-02-10 19:02:18.143 [info] Extension installed successfully: github.copilot
+2024-02-10 19:02:18.156 [info] Marked extension as uninstalled github.copilot-1.156.0
+2024-02-10 19:02:21.131 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:21.137 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:24.476 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:30.592 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-10 19:02:32.483 [warning] RequestStore#acceptReply was called without receiving a matching request 157
+2024-02-10 19:02:32.483 [warning] RequestStore#acceptReply was called without receiving a matching request 158
+2024-02-10 19:02:32.483 [warning] RequestStore#acceptReply was called without receiving a matching request 159
+2024-02-10 19:02:32.484 [warning] RequestStore#acceptReply was called without receiving a matching request 160
+2024-02-10 19:02:32.484 [warning] RequestStore#acceptReply was called without receiving a matching request 161
+2024-02-10 19:02:32.484 [warning] RequestStore#acceptReply was called without receiving a matching request 162
+2024-02-10 19:02:32.484 [warning] RequestStore#acceptReply was called without receiving a matching request 163
+2024-02-10 19:02:32.485 [warning] RequestStore#acceptReply was called without receiving a matching request 164
+2024-02-10 19:02:32.485 [warning] RequestStore#acceptReply was called without receiving a matching request 165
+2024-02-10 19:02:32.485 [warning] RequestStore#acceptReply was called without receiving a matching request 166
+2024-02-10 19:02:32.486 [warning] RequestStore#acceptReply was called without receiving a matching request 167
+2024-02-10 19:02:32.486 [warning] RequestStore#acceptReply was called without receiving a matching request 168
+2024-02-10 19:02:32.486 [warning] RequestStore#acceptReply was called without receiving a matching request 169
+2024-02-10 19:02:33.918 [warning] RequestStore#acceptReply was called without receiving a matching request 170
+2024-02-10 19:02:33.918 [warning] RequestStore#acceptReply was called without receiving a matching request 171
+2024-02-10 19:02:33.919 [warning] RequestStore#acceptReply was called without receiving a matching request 172
+2024-02-10 19:02:33.919 [warning] RequestStore#acceptReply was called without receiving a matching request 173
+2024-02-10 19:02:33.919 [warning] RequestStore#acceptReply was called without receiving a matching request 174
+2024-02-10 19:02:33.919 [warning] RequestStore#acceptReply was called without receiving a matching request 175
+2024-02-10 19:02:33.919 [warning] RequestStore#acceptReply was called without receiving a matching request 176
+2024-02-10 19:02:33.920 [warning] RequestStore#acceptReply was called without receiving a matching request 177
+2024-02-10 19:02:33.920 [warning] RequestStore#acceptReply was called without receiving a matching request 178
+2024-02-10 19:02:33.920 [warning] RequestStore#acceptReply was called without receiving a matching request 179
+2024-02-10 19:02:33.920 [warning] RequestStore#acceptReply was called without receiving a matching request 180
+2024-02-10 19:02:33.920 [warning] RequestStore#acceptReply was called without receiving a matching request 181
+2024-02-10 19:02:33.921 [warning] RequestStore#acceptReply was called without receiving a matching request 182
+2024-02-10 19:02:37.849 [warning] RequestStore#acceptReply was called without receiving a matching request 183
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 184
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 185
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 186
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 187
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 188
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 189
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 190
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 191
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 192
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 193
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 194
+2024-02-10 19:02:37.850 [warning] RequestStore#acceptReply was called without receiving a matching request 195
+2024-02-10 19:02:40.831 [warning] RequestStore#acceptReply was called without receiving a matching request 196
+2024-02-10 19:02:40.831 [warning] RequestStore#acceptReply was called without receiving a matching request 197
+2024-02-10 19:02:40.831 [warning] RequestStore#acceptReply was called without receiving a matching request 198
+2024-02-10 19:02:40.831 [warning] RequestStore#acceptReply was called without receiving a matching request 199
+2024-02-10 19:02:40.831 [warning] RequestStore#acceptReply was called without receiving a matching request 200
+2024-02-10 19:02:40.831 [warning] RequestStore#acceptReply was called without receiving a matching request 201
+2024-02-10 19:02:40.831 [warning] RequestStore#acceptReply was called without receiving a matching request 202
+2024-02-10 19:02:40.832 [warning] RequestStore#acceptReply was called without receiving a matching request 203
+2024-02-10 19:02:40.832 [warning] RequestStore#acceptReply was called without receiving a matching request 204
+2024-02-10 19:02:40.832 [warning] RequestStore#acceptReply was called without receiving a matching request 205
+2024-02-10 19:02:40.832 [warning] RequestStore#acceptReply was called without receiving a matching request 206
+2024-02-10 19:02:40.832 [warning] RequestStore#acceptReply was called without receiving a matching request 207
+2024-02-10 19:02:40.832 [warning] RequestStore#acceptReply was called without receiving a matching request 208
+2024-02-10 19:07:03.900 [info] New EH opened, aborting shutdown

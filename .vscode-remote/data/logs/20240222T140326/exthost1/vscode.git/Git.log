@@ -1,0 +1,25 @@
+2024-02-22 14:03:43.838 [info] ログ レベル: Info
+2024-02-22 14:03:43.838 [info] Git の検証が検出されました: "git"
+2024-02-22 14:03:43.838 [info] "git" から Git "2.43.0" を使用しています
+2024-02-22 14:03:43.838 [info] > git rev-parse --show-toplevel [161ms]
+2024-02-22 14:03:43.838 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2024-02-22 14:03:43.838 [info] Open repository: /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-02-22 14:03:43.838 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-22 14:03:43.838 [info] > git config --get commit.template [58ms]
+2024-02-22 14:03:43.838 [info] No remotes found in the git config file.
+2024-02-22 14:03:43.838 [info] > git rev-parse --show-toplevel [18ms]
+2024-02-22 14:03:43.838 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-02-22 14:03:43.838 [info] > git rev-parse --show-toplevel [19ms]
+2024-02-22 14:03:43.838 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-22 14:03:43.838 [info] > git status -z -uall [25ms]
+2024-02-22 14:03:44.352 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-22 14:03:45.571 [info] > git check-ignore -v -z --stdin [271ms]
+2024-02-22 14:03:45.572 [info] > git show --textconv :src/favorite_food.md [250ms]
+2024-02-22 14:03:45.573 [info] > git config --get commit.template [127ms]
+2024-02-22 14:03:45.573 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_branch/self_introduction/src/favorite_food.md [230ms]
+2024-02-22 14:03:46.934 [info] > git cat-file -s ed240f012eab321a8be8227f4c3f61ae75168ed4 [1334ms]
+2024-02-22 14:03:46.967 [info] No remotes found in the git config file.
+2024-02-22 14:03:47.001 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [34ms]
+2024-02-22 14:03:47.116 [info] > git status -z -uall [89ms]
+2024-02-22 14:03:52.163 [info] > git config --local branch.main.github-pr-owner-number [31ms]
+2024-02-22 14:03:52.198 [info] > git config --local branch.main.remote [5ms]

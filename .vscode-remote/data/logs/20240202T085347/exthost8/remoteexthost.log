@@ -1,0 +1,26 @@
+2024-02-02 09:25:54.423 [info] Extension host with pid 30887 started
+2024-02-02 09:25:54.439 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/79cdaade/vscode.lock': Lock acquired.
+2024-02-02 09:25:59.183 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-02-02 09:25:59.184 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-02-02 09:25:59.185 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-02-02 09:25:59.185 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-02-02 09:25:59.185 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-02-02 09:25:59.185 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-02 09:25:59.186 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-02 09:25:59.438 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-02-02 09:25:59.438 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-02-02 09:25:59.439 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-02-02 09:25:59.442 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-02-02 09:25:59.442 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-02-02 09:26:02.619 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-02-02 09:26:02.620 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-02-02 09:26:06.851 [info] Eager extensions activated
+2024-02-02 09:26:06.851 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-02 09:26:06.852 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-02 09:26:06.852 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-02 09:26:06.852 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-02 09:26:06.852 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-02-02 09:26:06.852 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-02-02 09:26:06.853 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-02-02 09:26:11.757 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-02 09:26:14.725 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github

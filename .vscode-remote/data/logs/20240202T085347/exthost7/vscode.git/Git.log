@@ -1,0 +1,36 @@
+2024-02-02 09:22:28.684 [info] ログ レベル: Info
+2024-02-02 09:22:28.684 [info] Git の検証が検出されました: "git"
+2024-02-02 09:22:28.684 [info] "git" から Git "2.43.0" を使用しています
+2024-02-02 09:22:28.684 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-02 09:22:28.684 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2024-02-02 09:22:28.684 [info] Open repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-02 09:22:28.702 [info] > git config --get commit.template [36ms]
+2024-02-02 09:22:28.703 [info] > git rev-parse --show-toplevel [20ms]
+2024-02-02 09:22:28.740 [info] No remotes found in the git config file.
+2024-02-02 09:22:28.760 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2024-02-02 09:22:28.779 [info] > git rev-parse --show-toplevel [20ms]
+2024-02-02 09:22:28.796 [info] > git status -z -uall [19ms]
+2024-02-02 09:22:28.819 [info] > git rev-parse --show-toplevel [22ms]
+2024-02-02 09:22:28.823 [info] > git config --get commit.template [5ms]
+2024-02-02 09:22:28.840 [info] No remotes found in the git config file.
+2024-02-02 09:22:28.842 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-02 09:22:28.869 [info] > git status -z -uall [3ms]
+2024-02-02 09:22:30.525 [info] > git check-ignore -v -z --stdin [435ms]
+2024-02-02 09:22:34.637 [info] > git config --local branch.main.github-pr-owner-number [42ms]
+2024-02-02 09:22:34.637 [warning] git config failed: Failed to execute git
+2024-02-02 09:22:34.711 [info] > git config --local branch.main.remote [40ms]
+2024-02-02 09:22:34.711 [warning] git config failed: Failed to execute git
+2024-02-02 09:22:34.749 [info] > git config --local branch.main.merge [5ms]
+2024-02-02 09:22:34.749 [warning] git config failed: Failed to execute git
+2024-02-02 09:22:36.373 [info] > git show --textconv :test/test_commit.sh [34ms]
+2024-02-02 09:22:36.374 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/test/test_commit.sh [3ms]
+2024-02-02 09:22:36.411 [info] > git cat-file -s 69f4176868151a5bae34d0ef495e8064406c5398 [4ms]
+2024-02-02 09:22:39.708 [info] > git show --textconv :.gitignore [37ms]
+2024-02-02 09:22:39.709 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/.gitignore [2ms]
+2024-02-02 09:22:39.747 [info] > git cat-file -s ae3eb299783898214b836126e60e5284c01e4cc5 [3ms]
+2024-02-02 09:22:41.785 [info] > git show --textconv :test/test_commit.sh [32ms]
+2024-02-02 09:22:41.786 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/test/test_commit.sh [3ms]
+2024-02-02 09:22:41.819 [info] > git cat-file -s 69f4176868151a5bae34d0ef495e8064406c5398 [2ms]
+2024-02-02 09:22:42.554 [info] > git show --textconv :.gitignore [32ms]
+2024-02-02 09:22:42.555 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/.gitignore [2ms]
+2024-02-02 09:22:42.590 [info] > git cat-file -s ae3eb299783898214b836126e60e5284c01e4cc5 [3ms]

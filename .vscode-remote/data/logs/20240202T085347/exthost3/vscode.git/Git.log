@@ -1,0 +1,37 @@
+2024-02-02 08:58:19.233 [info] ログ レベル: Info
+2024-02-02 08:58:19.233 [info] Git の検証が検出されました: "git"
+2024-02-02 08:58:19.233 [info] "git" から Git "2.43.0" を使用しています
+2024-02-02 08:58:19.233 [info] > git rev-parse --show-toplevel [678ms]
+2024-02-02 08:58:19.233 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-02 08:58:19.233 [info] > git rev-parse --show-toplevel [107ms]
+2024-02-02 08:58:19.233 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-02 08:58:19.233 [info] > git rev-parse --show-toplevel [11ms]
+2024-02-02 08:58:19.233 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-02 08:58:19.295 [info] > git rev-parse --show-toplevel [61ms]
+2024-02-02 08:58:19.295 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-02 09:08:21.460 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-02 09:08:21.489 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-02 09:08:21.502 [info] Open repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-02 09:08:21.568 [info] No remotes found in the git config file.
+2024-02-02 09:08:21.569 [info] > git config --get commit.template [34ms]
+2024-02-02 09:08:21.569 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-02 09:08:21.569 [warning] No such branch: main.
+2024-02-02 09:08:21.598 [info] > git status -z -uall [3ms]
+2024-02-02 09:08:21.664 [info] No remotes found in the git config file.
+2024-02-02 09:08:21.666 [info] > git config --get commit.template [29ms]
+2024-02-02 09:08:21.666 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-02 09:08:21.666 [warning] No such branch: main.
+2024-02-02 09:08:21.696 [info] > git status -z -uall [2ms]
+2024-02-02 09:09:21.442 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-02 09:10:21.530 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 09:10:21.530 [warning] git config failed: Failed to execute git
+2024-02-02 09:10:21.562 [info] > git config --local branch.main.remote [2ms]
+2024-02-02 09:10:21.562 [warning] git config failed: Failed to execute git
+2024-02-02 09:10:21.592 [info] > git config --local branch.main.merge [2ms]
+2024-02-02 09:10:21.592 [warning] git config failed: Failed to execute git
+2024-02-02 09:13:21.531 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 09:13:21.531 [warning] git config failed: Failed to execute git
+2024-02-02 09:18:21.562 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-02-02 09:18:21.562 [warning] git config failed: Failed to execute git
+2024-02-02 09:23:21.594 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 09:23:21.594 [warning] git config failed: Failed to execute git

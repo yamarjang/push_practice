@@ -1,0 +1,35 @@
+2024-02-02 09:21:14.064 [info] ログ レベル: Info
+2024-02-02 09:21:14.064 [info] Git の検証が検出されました: "git"
+2024-02-02 09:21:14.064 [info] "git" から Git "2.43.0" を使用しています
+2024-02-02 09:21:14.064 [info] > git rev-parse --show-toplevel [213ms]
+2024-02-02 09:21:14.064 [info] > git rev-parse --git-dir --git-common-dir [1229ms]
+2024-02-02 09:21:14.064 [info] Open repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-02 09:21:14.070 [info] > git rev-parse --show-toplevel [17ms]
+2024-02-02 09:21:14.071 [info] > git config --get commit.template [45ms]
+2024-02-02 09:21:14.133 [info] No remotes found in the git config file.
+2024-02-02 09:21:14.137 [info] > git rev-parse --show-toplevel [39ms]
+2024-02-02 09:21:14.206 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [74ms]
+2024-02-02 09:21:14.316 [info] > git status -z -uall [84ms]
+2024-02-02 09:21:14.320 [info] > git rev-parse --show-toplevel [158ms]
+2024-02-02 09:21:14.425 [info] > git config --get commit.template [22ms]
+2024-02-02 09:21:14.426 [info] > git rev-parse --show-toplevel [60ms]
+2024-02-02 09:21:14.839 [info] No remotes found in the git config file.
+2024-02-02 09:21:14.928 [info] > git check-ignore -v -z --stdin [48ms]
+2024-02-02 09:21:14.930 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [92ms]
+2024-02-02 09:21:14.965 [info] > git status -z -uall [5ms]
+2024-02-02 09:21:15.182 [info] > git show --textconv :src/favorite_food.md [41ms]
+2024-02-02 09:21:15.182 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/src/favorite_food.md [16ms]
+2024-02-02 09:21:15.212 [info] > git cat-file -s 54d6a16a5fd3cf66e6e81d166982c96d644f5b7e [5ms]
+2024-02-02 09:21:17.738 [info] > git config --local branch.main.github-pr-owner-number [15ms]
+2024-02-02 09:21:17.738 [warning] git config failed: Failed to execute git
+2024-02-02 09:21:17.894 [info] > git config --local branch.main.remote [120ms]
+2024-02-02 09:21:17.894 [warning] git config failed: Failed to execute git
+2024-02-02 09:21:17.941 [info] > git config --local branch.main.merge [10ms]
+2024-02-02 09:21:17.941 [warning] git config failed: Failed to execute git
+2024-02-02 09:21:33.964 [info] > git show --textconv :.progate/contents_commit_hash [49ms]
+2024-02-02 09:21:33.968 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/.progate/contents_commit_hash [5ms]
+2024-02-02 09:21:36.867 [info] > git show --textconv :src/favorite_food.md [31ms]
+2024-02-02 09:21:36.868 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/src/favorite_food.md [2ms]
+2024-02-02 09:21:36.900 [info] > git cat-file -s 54d6a16a5fd3cf66e6e81d166982c96d644f5b7e [2ms]
+2024-02-02 09:21:37.681 [info] > git show --textconv :.progate/contents_commit_hash [32ms]
+2024-02-02 09:21:37.682 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/.progate/contents_commit_hash [3ms]

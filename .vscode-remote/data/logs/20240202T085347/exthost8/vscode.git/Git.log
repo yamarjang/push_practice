@@ -1,0 +1,57 @@
+2024-02-02 09:26:07.584 [info] ログ レベル: Info
+2024-02-02 09:26:07.584 [info] Git の検証が検出されました: "git"
+2024-02-02 09:26:07.584 [info] "git" から Git "2.43.0" を使用しています
+2024-02-02 09:26:07.584 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-02 09:26:07.584 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2024-02-02 09:26:07.584 [info] Open repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-02 09:26:07.601 [info] > git config --get commit.template [34ms]
+2024-02-02 09:26:07.602 [info] > git rev-parse --show-toplevel [20ms]
+2024-02-02 09:26:07.621 [info] No remotes found in the git config file.
+2024-02-02 09:26:07.638 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-02-02 09:26:07.657 [info] > git rev-parse --show-toplevel [20ms]
+2024-02-02 09:26:07.674 [info] > git status -z -uall [20ms]
+2024-02-02 09:26:07.695 [info] > git rev-parse --show-toplevel [22ms]
+2024-02-02 09:26:07.700 [info] > git config --get commit.template [5ms]
+2024-02-02 09:26:07.718 [info] No remotes found in the git config file.
+2024-02-02 09:26:07.720 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-02 09:26:07.738 [info] > git status -z -uall [3ms]
+2024-02-02 09:26:11.365 [info] > git check-ignore -v -z --stdin [123ms]
+2024-02-02 09:26:11.365 [info] > git show --textconv :.gitignore [94ms]
+2024-02-02 09:26:11.366 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/.gitignore [70ms]
+2024-02-02 09:26:11.397 [info] > git cat-file -s ae3eb299783898214b836126e60e5284c01e4cc5 [5ms]
+2024-02-02 09:26:15.106 [info] > git config --local branch.main.github-pr-owner-number [17ms]
+2024-02-02 09:26:15.106 [warning] git config failed: Failed to execute git
+2024-02-02 09:26:15.148 [info] > git config --local branch.main.remote [2ms]
+2024-02-02 09:26:15.148 [warning] git config failed: Failed to execute git
+2024-02-02 09:26:15.192 [info] > git config --local branch.main.merge [2ms]
+2024-02-02 09:26:15.192 [warning] git config failed: Failed to execute git
+2024-02-02 09:26:33.250 [info] > git show --textconv :test/test_commit.sh [38ms]
+2024-02-02 09:26:33.252 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/test/test_commit.sh [3ms]
+2024-02-02 09:26:33.291 [info] > git cat-file -s 69f4176868151a5bae34d0ef495e8064406c5398 [2ms]
+2024-02-02 09:26:34.680 [info] > git show --textconv :.gitignore [41ms]
+2024-02-02 09:26:34.681 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/.gitignore [3ms]
+2024-02-02 09:26:34.752 [info] > git cat-file -s ae3eb299783898214b836126e60e5284c01e4cc5 [36ms]
+2024-02-02 09:31:15.082 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-02-02 09:31:15.082 [warning] git config failed: Failed to execute git
+2024-02-02 09:36:15.117 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-02-02 09:36:15.117 [warning] git config failed: Failed to execute git
+2024-02-02 09:41:15.153 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 09:41:15.153 [warning] git config failed: Failed to execute git
+2024-02-02 09:46:15.189 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 09:46:15.189 [warning] git config failed: Failed to execute git
+2024-02-02 09:51:15.239 [info] > git config --local branch.main.github-pr-owner-number [4ms]
+2024-02-02 09:51:15.240 [warning] git config failed: Failed to execute git
+2024-02-02 09:56:15.277 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 09:56:15.277 [warning] git config failed: Failed to execute git
+2024-02-02 10:01:15.319 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 10:01:15.320 [warning] git config failed: Failed to execute git
+2024-02-02 10:06:15.357 [info] > git config --local branch.main.github-pr-owner-number [3ms]
+2024-02-02 10:06:15.357 [warning] git config failed: Failed to execute git
+2024-02-02 10:11:15.393 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 10:11:15.393 [warning] git config failed: Failed to execute git
+2024-02-02 10:16:15.431 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 10:16:15.431 [warning] git config failed: Failed to execute git
+2024-02-02 10:21:15.467 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-02-02 10:21:15.468 [warning] git config failed: Failed to execute git
+2024-02-02 10:26:15.533 [info] > git config --local branch.main.github-pr-owner-number [28ms]
+2024-02-02 10:26:15.533 [warning] git config failed: Failed to execute git

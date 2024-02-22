@@ -1,0 +1,29 @@
+2024-02-02 08:08:10.014 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-02-02 08:08:10.014 [info] Activation> Extension version: 0.80.0
+2024-02-02 08:08:15.011 [info] Looking for git repository
+2024-02-02 08:08:15.011 [info] Found 0 repositories during activation
+2024-02-02 08:08:15.011 [info] Git repository found, initializing review manager and pr tree view.
+2024-02-02 08:08:15.017 [info] Registering git provider
+2024-02-02 08:08:15.017 [info] Review+0> Validate state in progress
+2024-02-02 08:08:15.017 [info] Review+0> Validating state...
+2024-02-02 08:08:15.017 [info] Review+1> Validate state in progress
+2024-02-02 08:08:15.017 [info] Review+1> Validating state...
+2024-02-02 08:08:15.018 [info] Review+2> Validate state in progress
+2024-02-02 08:08:15.018 [info] Review+2> Validating state...
+2024-02-02 08:08:15.222 [info] Found GitHub remote for folder /home/vscode/environment
+2024-02-02 08:08:15.222 [info] Found GitHub remote for folder /home/vscode/.oh-my-zsh
+2024-02-02 08:08:15.222 [info] Found GitHub remote for folder /home/vscode/.nodenv
+2024-02-02 08:08:15.468 [info] Repo state for file:///home/vscode/environment changed.
+2024-02-02 08:08:15.468 [info] Repo file:///home/vscode/environment has already been setup.
+2024-02-02 08:08:15.884 [info] Trying to use globalState for assignableUsers.
+2024-02-02 08:08:16.328 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-02-02 08:08:16.381 [info] Trying to use globalState for assignableUsers.
+2024-02-02 08:08:16.419 [info] Trying to use globalState for assignableUsers.
+2024-02-02 08:08:16.472 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-02-02 08:08:16.499 [info] Review+2> No matching pull request metadata found locally for current branch master
+2024-02-02 08:08:16.656 [info] Using globalState assignableUsers for 1.
+2024-02-02 08:08:16.684 [info] Using globalState assignableUsers for 1.
+2024-02-02 08:08:16.709 [info] Using globalState assignableUsers for 1.
+2024-02-02 08:08:17.056 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-02-02 08:08:17.412 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-02-02 08:08:17.766 [info] Review+2> No matching pull request metadata found on GitHub for current branch master

@@ -1,0 +1,12 @@
+2024-02-22 14:11:35.306 [info] ログ レベル: Info
+2024-02-22 14:11:35.306 [info] Git の検証が検出されました: "git"
+2024-02-22 14:11:35.306 [info] "git" から Git "2.43.0" を使用しています
+2024-02-22 14:11:35.306 [info] > git rev-parse --show-toplevel [35ms]
+2024-02-22 14:11:35.306 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 14:11:35.306 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-22 14:11:35.306 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 14:11:35.349 [info] > git rev-parse --show-toplevel [65ms]
+2024-02-22 14:11:35.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 14:11:36.418 [info] > git rev-parse --show-toplevel [1050ms]
+2024-02-22 14:11:36.418 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 14:12:03.774 [warning] Failed to get repository realpath for: "/home/vscode/progate_path/self_introduction_push/self_introduction/". Error: ENOENT: no such file or directory, realpath '/home/vscode/progate_path/self_introduction_push/self_introduction/'

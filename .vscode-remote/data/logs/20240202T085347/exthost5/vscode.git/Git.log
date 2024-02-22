@@ -1,0 +1,89 @@
+2024-02-02 09:01:16.712 [info] ログ レベル: Info
+2024-02-02 09:01:16.712 [info] Git の検証が検出されました: "git"
+2024-02-02 09:01:16.712 [info] "git" から Git "2.43.0" を使用しています
+2024-02-02 09:01:16.712 [info] > git rev-parse --show-toplevel [35ms]
+2024-02-02 09:01:16.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-02 09:01:16.712 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-02 09:01:16.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-02 09:01:16.714 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-02 09:01:16.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-02 09:01:16.759 [info] > git rev-parse --show-toplevel [20ms]
+2024-02-02 09:01:16.759 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-02 09:08:00.802 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-02 09:08:00.876 [info] > git rev-parse --git-dir --git-common-dir [41ms]
+2024-02-02 09:08:00.899 [info] Open repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-02-02 09:08:01.044 [info] No remotes found in the git config file.
+2024-02-02 09:08:01.052 [info] > git config --get commit.template [93ms]
+2024-02-02 09:08:01.062 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-02-02 09:08:01.063 [warning] No such branch: main.
+2024-02-02 09:08:01.127 [info] > git status -z -uall [9ms]
+2024-02-02 09:08:01.319 [info] No remotes found in the git config file.
+2024-02-02 09:08:01.330 [info] > git config --get commit.template [116ms]
+2024-02-02 09:08:01.330 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-02-02 09:08:01.330 [warning] No such branch: main.
+2024-02-02 09:08:01.390 [info] > git status -z -uall [10ms]
+2024-02-02 09:08:01.522 [info] > git config --local branch.main.github-pr-owner-number [3ms]
+2024-02-02 09:08:01.522 [warning] git config failed: Failed to execute git
+2024-02-02 09:08:01.558 [info] > git config --local branch.main.remote [2ms]
+2024-02-02 09:08:01.558 [warning] git config failed: Failed to execute git
+2024-02-02 09:08:01.628 [info] > git config --local branch.main.merge [36ms]
+2024-02-02 09:08:01.629 [warning] git config failed: Failed to execute git
+2024-02-02 09:08:01.630 [info] > git check-ignore -v -z --stdin [3ms]
+2024-02-02 09:08:33.556 [info] No remotes found in the git config file.
+2024-02-02 09:08:33.557 [info] > git config --get commit.template [36ms]
+2024-02-02 09:08:33.557 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-02 09:08:33.557 [warning] No such branch: main.
+2024-02-02 09:08:33.593 [info] > git status -z -uall [2ms]
+2024-02-02 09:08:41.936 [info] No remotes found in the git config file.
+2024-02-02 09:08:41.939 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-02 09:08:41.940 [info] > git config --get commit.template [36ms]
+2024-02-02 09:08:41.975 [info] > git status -z -uall [2ms]
+2024-02-02 09:08:42.013 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 09:08:42.013 [warning] git config failed: Failed to execute git
+2024-02-02 09:08:42.048 [info] > git config --local branch.main.remote [1ms]
+2024-02-02 09:08:42.048 [warning] git config failed: Failed to execute git
+2024-02-02 09:08:42.084 [info] > git config --local branch.main.merge [2ms]
+2024-02-02 09:08:42.084 [warning] git config failed: Failed to execute git
+2024-02-02 09:09:58.868 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-02 09:10:00.165 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-02 09:10:01.698 [info] > git show --textconv :src/favorite_food.md [51ms]
+2024-02-02 09:10:01.698 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/src/favorite_food.md [6ms]
+2024-02-02 09:10:01.744 [info] > git cat-file -s f5033617eeed106b96d7206b522114e8323b4198 [6ms]
+2024-02-02 09:10:13.037 [info] > git config --get commit.template [3ms]
+2024-02-02 09:10:13.072 [info] No remotes found in the git config file.
+2024-02-02 09:10:13.075 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-02 09:10:13.111 [info] > git status -z -uall [2ms]
+2024-02-02 09:10:39.999 [info] No remotes found in the git config file.
+2024-02-02 09:10:40.001 [info] > git config --get commit.template [36ms]
+2024-02-02 09:10:40.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-02-02 09:10:40.063 [info] > git status -z -uall [4ms]
+2024-02-02 09:10:48.389 [info] No remotes found in the git config file.
+2024-02-02 09:10:48.390 [info] > git config --get commit.template [38ms]
+2024-02-02 09:10:48.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-02 09:10:48.432 [info] > git status -z -uall [5ms]
+2024-02-02 09:11:03.251 [info] No remotes found in the git config file.
+2024-02-02 09:11:03.253 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-02 09:11:03.253 [info] > git config --get commit.template [40ms]
+2024-02-02 09:11:03.293 [info] > git status -z -uall [2ms]
+2024-02-02 09:13:00.936 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-02-02 09:13:00.936 [warning] git config failed: Failed to execute git
+2024-02-02 09:13:20.472 [info] No remotes found in the git config file.
+2024-02-02 09:13:20.473 [info] > git config --get commit.template [40ms]
+2024-02-02 09:13:20.474 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-02 09:13:20.510 [info] > git status -z -uall [3ms]
+2024-02-02 09:13:20.663 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/src/favorite_food.md [7ms]
+2024-02-02 09:13:20.718 [info] > git cat-file -s 54d6a16a5fd3cf66e6e81d166982c96d644f5b7e [2ms]
+2024-02-02 09:13:20.903 [info] > git show --textconv :src/favorite_food.md [6ms]
+2024-02-02 09:15:10.522 [info] No remotes found in the git config file.
+2024-02-02 09:15:10.523 [info] > git config --get commit.template [37ms]
+2024-02-02 09:15:10.524 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-02 09:15:10.560 [info] > git status -z -uall [2ms]
+2024-02-02 09:15:10.602 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-02-02 09:15:10.602 [warning] git config failed: Failed to execute git
+2024-02-02 09:15:10.640 [info] > git config --local branch.main.remote [1ms]
+2024-02-02 09:15:10.640 [warning] git config failed: Failed to execute git
+2024-02-02 09:15:10.728 [info] > git config --local branch.main.merge [49ms]
+2024-02-02 09:15:10.728 [warning] git config failed: Failed to execute git
+2024-02-02 09:15:10.729 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/src/favorite_food.md [3ms]
+2024-02-02 09:15:10.853 [info] > git cat-file -s 54d6a16a5fd3cf66e6e81d166982c96d644f5b7e [66ms]
+2024-02-02 09:15:11.025 [info] > git show --textconv :src/favorite_food.md [3ms]

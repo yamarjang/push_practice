@@ -1,0 +1,83 @@
+2024-02-22 15:18:07.721 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-02-22 15:18:07.721 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-8b3775030ed1a69b13e4f4c628c612102e30a681","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20240222T151807"}
+2024-02-22 15:18:07.721 [info] 
+
+
+
+
+2024-02-22 15:18:07.721 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-22 15:18:07.740 [trace] ExtensionManagementService#cleanUp
+2024-02-22 15:18:07.741 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-02-22 15:18:07.743 [info] Extension host agent started.
+2024-02-22 15:18:07.812 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-22 15:18:07.815 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-02-22 15:18:07.822 [trace] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json'
+2024-02-22 15:18:07.881 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-2.4.4
+2024-02-22 15:18:07.882 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2024.2.2024022201
+2024-02-22 15:18:07.882 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/esbenp.prettier-vscode-10.1.0
+2024-02-22 15:18:07.882 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2024-02-22 15:18:07.887 [debug] Removing uninstalled extensions: ["ms-azuretools.vscode-docker-1.28.0","ms-ceintl.vscode-language-pack-ja-1.85.2024020709","github.copilot-1.159.0","prisma.prisma-5.9.1"]
+2024-02-22 15:18:07.888 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-02-22 15:18:07.903 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-22 15:18:07.906 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-02-22 15:18:07.920 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-02-22 15:18:08.091 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-02-22 15:18:08.172 [trace] [127.0.0.1][824cf620][ExtensionHostConnection] - startParams language: ja
+2024-02-22 15:18:08.172 [trace] [127.0.0.1][824cf620][ExtensionHostConnection] - startParams env: {}
+2024-02-22 15:18:08.173 [info] [127.0.0.1][824cf620][ExtensionHostConnection] New connection established.
+2024-02-22 15:18:08.180 [info] [127.0.0.1][61230ddd][ManagementConnection] New connection established.
+2024-02-22 15:18:08.332 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:08.371 [trace] Scanned user extensions: 25
+2024-02-22 15:18:08.374 [trace] Deleting uninstalled extension from disk github.copilot /home/vscode/.vscode-remote/extensions/github.copilot-1.159.0
+2024-02-22 15:18:08.376 [trace] Deleting uninstalled extension from disk ms-azuretools.vscode-docker /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.28.0
+2024-02-22 15:18:08.376 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-ja /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2024020709
+2024-02-22 15:18:08.377 [trace] Deleting uninstalled extension from disk prisma.prisma /home/vscode/.vscode-remote/extensions/prisma.prisma-5.9.1
+2024-02-22 15:18:08.381 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-1.159.0
+2024-02-22 15:18:08.382 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-1.159.0.-35c7edba.vsctmp
+2024-02-22 15:18:08.382 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-azuretools.vscode-docker-1.28.0
+2024-02-22 15:18:08.383 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-azuretools.vscode-docker-1.28.0.-578f727e.vsctmp
+2024-02-22 15:18:08.383 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ja-1.85.2024020709
+2024-02-22 15:18:08.384 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ja-1.85.2024020709.f8ecc5.vsctmp
+2024-02-22 15:18:08.384 [trace] [File Watcher (node.js)] [raw] ["rename"] prisma.prisma-5.9.1
+2024-02-22 15:18:08.384 [trace] [File Watcher (node.js)] [raw] ["rename"] prisma.prisma-5.9.1.-4fb9720d.vsctmp
+2024-02-22 15:18:08.388 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:08.414 [trace] Scanned user extensions: 21
+2024-02-22 15:18:08.488 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.159.0
+2024-02-22 15:18:08.490 [trace] [File Watcher (node.js)] [ADDED] /home/vscode/.vscode-remote/extensions/github.copilot-1.159.0.-35c7edba.vsctmp
+2024-02-22 15:18:08.490 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.28.0
+2024-02-22 15:18:08.491 [trace] [File Watcher (node.js)] [ADDED] /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.28.0.-578f727e.vsctmp
+2024-02-22 15:18:08.491 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2024020709
+2024-02-22 15:18:08.558 [trace] Started scanning system extensions
+2024-02-22 15:18:08.558 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-22 15:18:08.559 [trace] Started scanning system extensions
+2024-02-22 15:18:08.559 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-22 15:18:08.559 [trace] ExtensionManagementService.refreshReportedCache
+2024-02-22 15:18:08.559 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-02-22 15:18:08.560 [trace] Started scanning system extensions
+2024-02-22 15:18:08.560 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-22 15:18:08.561 [trace] Started scanning system extensions
+2024-02-22 15:18:08.561 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-22 15:18:08.563 [trace] Scanning extensions using UI language: ja
+2024-02-22 15:18:08.566 [info] Log level changed to info
+2024-02-22 15:18:09.963 [info] [127.0.0.1][824cf620][ExtensionHostConnection] <743> Launched Extension Host Process.
+2024-02-22 15:18:10.174 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ja /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2024020709
+2024-02-22 15:18:11.360 [info] Deleted uninstalled extension from disk github.copilot /home/vscode/.vscode-remote/extensions/github.copilot-1.159.0
+2024-02-22 15:18:11.446 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:11.556 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.28.0
+2024-02-22 15:18:11.627 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:11.820 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:11.978 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:12.140 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:12.249 [info] Deleted uninstalled extension from disk prisma.prisma /home/vscode/.vscode-remote/extensions/prisma.prisma-5.9.1
+2024-02-22 15:18:12.255 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:12.319 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:12.370 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:12.419 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:12.465 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:19.222 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:20.056 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:20.861 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:21.697 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:21.883 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:22.503 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.
+2024-02-22 15:18:23.703 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.12.0]: Extension is not compatible with Code 1.85.2. Extension requires: ^1.86.0.

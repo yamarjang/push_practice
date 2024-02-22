@@ -1,0 +1,7 @@
+[user]
+	name = yamarjang
+	email = yama.radahyu27@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait

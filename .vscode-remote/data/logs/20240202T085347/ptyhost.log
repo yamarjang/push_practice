@@ -1,0 +1,31 @@
+2024-02-02 08:54:13.364 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-02 08:55:25.341 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-02 08:58:05.886 [info] Expanding terminal instance, old id 79cdaade-9 -> new id undefined
+2024-02-02 08:58:05.887 [info] Expanding terminal instance, old id 79cdaade-8 -> new id undefined
+2024-02-02 08:58:14.837 [warning] Persistent process "8": Process had no disconnect runners but was an orphan
+2024-02-02 08:58:14.837 [info] Persistent process reconnection "8"
+2024-02-02 08:58:15.553 [info] Persistent process "8": Replaying 772 chars and 1 size events
+2024-02-02 08:58:15.627 [warning] Persistent process "9": Process had no disconnect runners but was an orphan
+2024-02-02 08:58:15.627 [info] Persistent process reconnection "9"
+2024-02-02 08:58:16.383 [info] Persistent process "9": Replaying 101 chars and 1 size events
+2024-02-02 08:58:28.270 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-02 08:59:24.731 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-02 09:00:57.969 [info] Expanding terminal instance, old id 79cdaade-12 -> new id undefined
+2024-02-02 09:00:57.969 [info] Expanding terminal instance, old id 79cdaade-14 -> new id undefined
+2024-02-02 09:01:27.939 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-02 09:21:02.396 [info] Expanding terminal instance, old id 79cdaade-16 -> new id undefined
+2024-02-02 09:21:09.302 [warning] Persistent process "16": Process had no disconnect runners but was an orphan
+2024-02-02 09:21:09.302 [info] Persistent process reconnection "16"
+2024-02-02 09:21:09.448 [info] Persistent process "16": Replaying 5570 chars and 1 size events
+2024-02-02 09:21:22.694 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-02 09:22:15.231 [info] Expanding terminal instance, old id 79cdaade-16 -> new id undefined
+2024-02-02 09:22:25.033 [warning] Persistent process "16": Process had no disconnect runners but was an orphan
+2024-02-02 09:22:25.033 [info] Persistent process reconnection "16"
+2024-02-02 09:22:25.138 [info] Persistent process "16": Replaying 5344 chars and 1 size events
+2024-02-02 09:22:39.698 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-02 09:25:52.594 [info] Expanding terminal instance, old id 79cdaade-16 -> new id undefined
+2024-02-02 09:26:02.720 [warning] Persistent process "16": Process had no disconnect runners but was an orphan
+2024-02-02 09:26:02.720 [info] Persistent process reconnection "16"
+2024-02-02 09:26:03.699 [info] Persistent process "16": Replaying 5344 chars and 1 size events
+2024-02-02 09:26:19.162 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-02 09:29:08.951 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []

@@ -1,0 +1,34 @@
+[2024-02-02 07:59:43.530] Starting Git Graph ...
+[2024-02-02 07:59:43.571] Using git (version: 2.43.0)
+[2024-02-02 07:59:43.581] Started Git Graph - Ready to use!
+[2024-02-02 07:59:43.582] Searching workspace for new repos ...
+[2024-02-02 07:59:43.600] > git rev-parse --show-toplevel
+[2024-02-02 07:59:43.875] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-02-02 07:59:43.877] Completed searching workspace for new repos
+[2024-02-02 07:59:49.777] > git rev-parse --show-toplevel
+[2024-02-02 07:59:50.529] > git rev-parse --show-toplevel
+[2024-02-02 07:59:50.795] > git rev-parse --show-toplevel
+[2024-02-02 07:59:51.094] > git rev-parse --show-toplevel
+[2024-02-02 07:59:51.356] > git rev-parse --show-toplevel
+[2024-02-02 07:59:51.414] > git rev-parse --show-toplevel
+[2024-02-02 07:59:52.713] > git rev-parse --show-toplevel
+[2024-02-02 07:59:53.205] > git rev-parse --show-toplevel
+[2024-02-02 07:59:53.245] > git rev-parse --show-toplevel
+[2024-02-02 07:59:58.646] > git rev-parse --show-toplevel
+[2024-02-02 08:00:01.178] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.122] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.303] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.532] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.664] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.712] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.760] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.832] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.871] > git rev-parse --show-toplevel
+[2024-02-02 08:00:02.960] > git rev-parse --show-toplevel
+[2024-02-02 08:00:03.224] > git rev-parse --show-toplevel
+[2024-02-02 08:00:03.383] > git rev-parse --show-toplevel
+[2024-02-02 08:00:03.448] > git rev-parse --show-toplevel
+[2024-02-02 08:00:05.485] > git rev-parse --show-toplevel
+[2024-02-02 08:02:39.047] > git rev-parse --show-toplevel
+[2024-02-02 08:03:31.715] > git rev-parse --show-toplevel
+[2024-02-02 08:03:31.747] > git rev-parse --show-toplevel
